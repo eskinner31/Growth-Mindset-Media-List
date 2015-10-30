@@ -17,7 +17,7 @@ Below is a small list of the Podcasts I have been listening to recently. Feel fr
 ###Comedy
 - [Joe Rogan Experience](http://podcasts.joerogan.net/)
 
-#Reading
+#Reading List by Topic
 
 ###Motivational/Growth Mindset Books
 - "The Art of Learning: An Inner Journey to Optimal Performance" - Josh Waltzkin

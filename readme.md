@@ -27,3 +27,5 @@ Below is a small list of the Podcasts I have been listening to recently. Feel fr
 
 ###Tech Books
 - "Practical Object-Oriented Design in Ruby" - Sandi Metz
+- "Ten Usability Heuristics"
+- "The Design of Everyday Things" - Donald Norman - Suggested 
